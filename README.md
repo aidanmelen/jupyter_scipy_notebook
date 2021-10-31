@@ -1,1 +1,1 @@
-# jupyter_scripy_notebook
+# jupyter_scipy_notebook
